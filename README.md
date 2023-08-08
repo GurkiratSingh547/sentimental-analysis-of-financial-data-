@@ -1,0 +1,1 @@
+# sentimental-analysis-of-financial-data-
